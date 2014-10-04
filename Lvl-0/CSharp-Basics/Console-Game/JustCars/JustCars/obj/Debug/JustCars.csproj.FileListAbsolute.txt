@@ -1,0 +1,12 @@
+c:\users\lucky\documents\visual studio 2012\Projects\JustCars\JustCars\bin\Debug\JustCars.exe.config
+c:\users\lucky\documents\visual studio 2012\Projects\JustCars\JustCars\obj\Debug\JustCars.csprojResolveAssemblyReference.cache
+c:\users\lucky\documents\visual studio 2012\Projects\JustCars\JustCars\bin\Debug\JustCars.exe
+c:\users\lucky\documents\visual studio 2012\Projects\JustCars\JustCars\bin\Debug\JustCars.pdb
+c:\users\lucky\documents\visual studio 2012\Projects\JustCars\JustCars\obj\Debug\JustCars.exe
+c:\users\lucky\documents\visual studio 2012\Projects\JustCars\JustCars\obj\Debug\JustCars.pdb
+F:\Visual Studio stuffs\Console-Games\JustCars\JustCars\bin\Debug\JustCars.exe.config
+F:\Visual Studio stuffs\Console-Games\JustCars\JustCars\obj\Debug\JustCars.exe
+F:\Visual Studio stuffs\Console-Games\JustCars\JustCars\obj\Debug\JustCars.pdb
+F:\Visual Studio stuffs\Console-Games\JustCars\JustCars\bin\Debug\JustCars.exe
+F:\Visual Studio stuffs\Console-Games\JustCars\JustCars\bin\Debug\JustCars.pdb
+F:\Visual Studio stuffs\Console-Games\JustCars\JustCars\obj\Debug\JustCars.csprojResolveAssemblyReference.cache
