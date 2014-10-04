@@ -1,0 +1,87 @@
+﻿@font-face {
+	font-family: Animated;
+	src: url('Animated.ttf') format('truetype');
+}
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body > div{
+    z-index:-6;
+    position:absolute;
+    top:0px;
+    left:0px;
+    margin:0px;
+    width:900px;
+    height:600px;
+    background:  url('images/HawaiiBackground.png'), radial-gradient(at 21% 21%, white 3%, #f9f8b8 8%,white 13%,#0068db 60%);
+    background-repeat:  no-repeat;
+}
+#vlado-g{
+    position:relative;
+    top:190px;
+    left:40px;
+    z-index:-5;
+}
+#petya{
+    position:relative;
+    top:180px;
+    left:-100px;
+    z-index:-4;
+}
+#tedy{
+    position:relative;
+    top:195px;
+    left:-280px;
+    z-index:-3;
+}
+#nakov{
+    position:relative;
+    top:-230px;
+    left:410px;
+    z-index:-2;
+}
+#alex{
+    position:relative;
+    top:-210px;
+    left:260px;
+    z-index:-1;
+}
+#vlado-k{
+    position:relative;
+    top:-210px;
+    left:180px;
+    z-index:-2;
+}
+div{
+    font-family:Animated;
+    color:#FFBD1E;
+    font-size:40px;
+    position:fixed;
+    top:30px;
+    left:500px;
+}
+

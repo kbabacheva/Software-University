@@ -1,0 +1,10 @@
+﻿input[type=button]{
+    width:120px;
+}
+input[type=search]{
+    height:25px;
+    vertical-align:super;
+}
+input[type=image]{
+    vertical-align:bottom;
+}

@@ -1,0 +1,107 @@
+﻿/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+body{
+    background-color:#3B5997;
+    color:white;
+    width:70%;
+    font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;
+    padding:10px;
+}
+header{
+    width:80%;
+}
+h1{
+    font-size:80px;
+    text-align:center;
+    font-weight:900;
+}
+    h1 span{
+        font-size:15px;
+    }
+h2{
+    padding-top:20px;
+    font-size:30px;
+    text-align:center;
+    font-weight:900;
+}
+h3{
+    padding-top:15px;
+    font-size:20px;
+    text-align:center;
+    font-weight:500;
+}
+section#left, section#right{
+    display:inline-block;
+    float:left;
+    padding-top:30px;
+    margin:10px;
+    /*width:48%;*/
+}
+section#left{
+    margin-right:20px;
+}
+fieldset{
+    border:1px solid white;
+    padding:5px;
+    border-radius:10px;
+    height:300px;
+}
+#first-fieldset{
+    width:330px;
+}
+#second-fieldset{
+    width:480px;
+}
+    fieldset legend{
+        text-align:center;
+        font-weight:800;
+    }
+input{
+    margin:5px;
+    border-radius:5px;
+    height:25px;
+    width:140px;
+}
+label{
+    display:block;
+    margin:5px;
+}
+.inline{
+    display:inline;
+    font-size:14px;
+}
+.smaller{
+    width:70px;
+}
+input[type=radio]{
+    width:15px;
+    vertical-align:sub;
+}
+select{
+    height:25px;
+    width:130px;
+    margin-left:5px;
+    margin-right:5px;
+}
+textarea{
+    width:440px;
+    margin-left:5px;
+    height:90px;
+}
+input[type=reset]{
+    width:100%;
+    height:50px;
+    margin-left:-1px;
+    margin-top:10px;
+    font-size:20px;
+    color:#32589E;
+}
+input[type=submit]{
+    font-size:20px;
+    color:#32589E;
+    height:50px;
+    margin-top:10px;
+    width:100%;
+    margin-left:-1px;
+}

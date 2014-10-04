@@ -1,0 +1,43 @@
+﻿table,td{
+    border-collapse:separate;
+    border:1px solid black;
+}
+td{
+    padding:2px;
+    width:80px;
+    height:70px;
+    text-align:center;
+}
+.bold{
+    font-weight:800;
+    font-size:38px;
+    margin:20px;
+}
+.inside{
+    height:34px;
+    width:70px;
+    border:none;
+}
+button{
+    width:100%;
+    height:100%;
+    font-size:20px;
+    color:blue;
+    margin-right:5px;
+}
+button.bold{
+    font-weight:800;
+    font-size:36px;
+    margin:0px;
+}
+button.inside-btn{
+    font-size:12px;
+    width:100%;
+    height:100%;
+    margin:2px;
+    padding:0px;
+}
+button#bold{
+    text-align:right;
+    font-weight:800;
+}

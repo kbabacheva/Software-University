@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Fight order</title>
+    <link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+<body>
+    <section>
+        <h1>FLIGHT ORDER</h1>
+        <section id="left">
+            <form method="post" action="#">
+                <label for="departure-city">From</label>
+                <select name="departure-city" id="departure-city">
+                    <option value="non-selected" selected="selected">enter a city</option>
+                    <option value="paris">Paris</option>
+                    <option value="london">London</option>
+                    <option value="new-york">New York</option>
+                </select>
+                <label for="departure-date">Departure date</label>
+                <input name="startDate" type="date" id="departure-date" value="2014-06-09"/>
+                <label for="return-date">Return date</label>
+                <input name="endDate" type="date" id="return-date" value="2014-06-13"/>
+                <label for="number-1" class="inline-lbl">12+</label>
+                <label for="number-2" class="inline-lbl">2-12</label>
+                <label for="number-3" class="inline-lbl">0-2</label><br />
+                <input type="number" name="number-1" id="number-1" />
+                <input type="number" name="number-2" id="number-2" />
+                <input type="number" name="number-3" id="number-3" />
+            </form>
+        </section>
+        <section id="right">
+            <form method="post" action="#">
+                <label for="arrival-city">To</label>
+                <select name="arrival-city" id="arrival-city">
+                    <option value="non-selected" selected="selected">enter a city</option>
+                    <option value="paris">Paris</option>
+                    <option value="london">London</option>
+                    <option value="new-york">New York</option>
+                </select>
+                <input type="checkbox" name="check" id="check" />
+                <label for="check">Prefer directs</label><br />
+                <label for="departure-time">Time Interval</label><br />
+                <input name="departure-time" type="time" id="departure-time" value="00:20"/>
+                <input name="departure-time2" type="time" id="departure-time2" value="05:00"/><br />
+                <label for="arrival-time">Time Interval</label><br />
+                <input name="arrival-time" type="time" id="arrival-time" value="16:00"/>
+                <input name="arrival-time2" type="time" id="arrival-time2" value="22:00"/><br />
+                <label for="class">Choose class</label>
+                <select name="class" id="class">
+                    <option value="economy" selected="selected">Economy</option>
+                    <option value="business">Business</option>
+                    <option value="vip">VIP</option>
+                </select>
+                <input type="button" name="search" value="Search"/>
+            </form>
+        </section>
+    </section>
+</body>
+</html>

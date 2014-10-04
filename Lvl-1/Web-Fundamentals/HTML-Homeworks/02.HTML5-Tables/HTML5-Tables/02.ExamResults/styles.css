@@ -1,0 +1,14 @@
+﻿
+table, td, th, tr {
+   border-collapse: separate;
+   border:1px solid black;
+}
+table{
+    width:340px;
+}
+thead > tr > th:first-child{
+    font-size:24px;
+}
+tfoot{
+    text-align:right;
+}

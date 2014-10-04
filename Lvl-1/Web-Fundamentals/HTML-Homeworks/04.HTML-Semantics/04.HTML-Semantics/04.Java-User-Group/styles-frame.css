@@ -1,0 +1,134 @@
+﻿/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+#header{
+    padding-top:2%;
+    padding-left:1%;
+    padding-bottom:1%;
+}
+    #header h1{
+        font-size:xx-large;
+        padding-bottom:2%;
+    }
+    #header li{
+        display:inline-block;
+        margin-right:1%;
+    }
+    #header li:last-of-type{
+        float:right;
+        margin-right:3%;
+        border:1px solid #A2A3A5;
+        background-color:#F7F7F7;
+    }
+    #header input{
+        text-align:left;
+        background-color:#F7F7F7;
+        border:none;
+    }
+    #header input[type=image]{
+        margin-left:-3%;
+        vertical-align:bottom;
+    }
+    #header a{
+        text-decoration:none;
+        color:#B4B4B4;
+    }
+    #header hr{
+        margin-top:2%;
+    }
+#left-aside{
+    margin-left:2%;
+    padding-top:2%;
+}
+    #left-aside li{
+        padding-bottom:2%;
+    }
+    #left-aside a{
+        text-decoration:none;
+        font-size:large;
+    }
+
+#main{
+width:53%;
+margin-left:3%;
+margin-right:3%;
+}
+    #main div{
+        padding-bottom:3%;
+    }
+    #main div h2{
+        font-size: xx-large;
+        font-weight:600;
+        padding-bottom:1%;
+    }
+    #main div h3{
+        color:#827A7F;
+        font-size: large;
+        padding-bottom:2%;
+    }
+    #main div p{
+        padding-bottom:2%;
+    }
+    #main div a{
+        text-decoration:none;
+        font-size:large;
+    }
+    #main div#last-article{
+        padding-top:5%;
+    }
+
+#right-aside{
+    margin-right:2%;
+}
+    #right-aside h3{
+    color:#AFAFAF;
+    font-size:large;
+    }
+    #right-aside form{
+        padding-bottom:5%;
+        padding-top:2%;
+    }
+    #right-aside select{
+        width:32%;
+        height:5%;
+    }
+#footer{
+    clear:both;
+}
+    #footer p{
+        width:98%;
+        background-color:#F7F7F7;
+        padding:1%;
+        font-size:large;
+        color:#A08787;
+    }
+    #footer > div{
+        background-color:black;
+        padding-left:1%;
+        color:white;
+        height:160px;
+        padding-top:1%;
+    }
+    #footer div > div{
+        display:inline-block;
+        float:left;
+        width:16%;
+        margin-right:2%;
+        background-color:black;
+    }
+    #footer #first-div{
+        font-size:larger;
+    }
+    #footer a,span{
+        text-decoration:none;
+        color:white;
+    }
+    #footer li{
+        padding-bottom:1%;
+    }
+    #footer ul{
+        padding-top:2%;
+    }
+    #footer div p{
+        background-color:black;
+    }

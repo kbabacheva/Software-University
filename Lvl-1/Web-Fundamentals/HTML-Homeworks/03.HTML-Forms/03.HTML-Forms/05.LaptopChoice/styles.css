@@ -1,0 +1,77 @@
+﻿/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+h1{
+    color:#2C425A;
+    font-size:22px;
+    font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;
+    font-weight:900;
+    margin:5px;
+    margin-left:30px;
+    margin-top:20px;
+}
+article{
+    display:inline-block;
+    color:#2C425A;
+    margin:5px;
+    padding:5px;
+    padding-right:0px;
+    padding-bottom:0px;
+    border:1px solid #E1F0FA;
+    background-color:#FFFFFF;
+    border-radius:10px;
+    border-bottom-right-radius:0px;
+}
+section{
+    margin-left:20px;
+}
+    h3{
+        font-size:18px;
+        font-weight:800;
+    }
+    section p{
+        font-size:14px;
+    }
+    section div{
+        width:70px;
+        padding:5px;
+        background-color:#2C425A;
+        color:white;
+        margin-left:90px;
+        height:22px;
+        text-align:center;
+        vertical-align:central;
+        padding-top:10px;
+        border-top-left-radius:10px;
+    }
+aside{
+    position:absolute;
+    top:20px;
+    left:600px;
+    background-color:#F7FCFF;
+    padding:5px;
+}
+    aside label{
+        text-align:center;
+        color:#2C425A;
+        font-size:16px;
+        font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;
+        margin-top:5px;
+        margin-bottom:5px;
+    }
+img{
+    width:150px;
+    height:80px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+label{
+    display:block;
+}
+span{
+    color:#2C425A;
+    font-size:12px;
+}
+.right{
+    float:right;
+}

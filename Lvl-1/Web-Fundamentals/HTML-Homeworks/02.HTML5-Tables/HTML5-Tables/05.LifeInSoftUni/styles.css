@@ -1,0 +1,39 @@
+﻿table,td{
+    border-collapse:separate;
+    border:1px solid black;
+}
+td{
+    padding:5px;
+    width:80px;
+    height:70px;
+    font-size:20px;
+}
+.bold{
+    font-weight:800;
+    font-size:38px;
+    margin:20px;
+}
+.center{
+    text-align:center;
+}
+.inside{
+    height:20px;
+    width:70px;
+    font-size:14px;
+}
+td.top{
+    vertical-align:top;
+}
+td.bottom{
+    vertical-align:bottom;
+}
+td.left{
+    text-align:left;
+}
+td.right{
+    text-align:right;
+}
+#bold{
+    font-size:24px;
+    font-weight:800;
+}

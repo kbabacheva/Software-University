@@ -1,0 +1,178 @@
+﻿/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0b1 | 201101 
+   NOTE: WORK IN PROGRESS
+   USE WITH CAUTION AND TEST WITH ABANDON */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body{
+    font-family:Tahoma;
+    background-color:#00923E;
+}
+table{
+    border: 1px solid black;
+	border-radius: 20px;
+	background: white;
+    margin:30px;
+    border-spacing: 0;
+}
+table td, table th{
+	border: 1px solid black;
+	text-align: center;
+    padding:5px;
+    height:40px;
+}
+table th{
+    background-color:#F8C711;
+}
+.odd{
+    background-color:#FFFFFF;
+}
+.even{
+    background-color:#C8C8C8;
+}
+#brasil{
+    background-image:url(images/brasil.png);
+    background-repeat:no-repeat;
+    background-position:right;
+    padding-right:40px;
+    text-align:right;
+}
+#mexico{
+    background-image:url(images/mexico.png);
+    background-repeat:no-repeat;
+    background-position:left;
+    text-align:left;
+    padding-left:40px;
+}
+#spain{
+    background-image:url(images/spain.png);
+    background-repeat:no-repeat;
+    background-position:right;
+    padding-right:40px;
+    text-align:right;
+}
+#netherlands{
+    background-image:url(images/netherlands.png);
+    background-repeat:no-repeat;
+    background-position:left;
+    text-align:left;
+    padding-left:40px;
+}
+#italy{
+    background-image:url(images/italy.png);
+    background-repeat:no-repeat;
+    background-position:right;
+    padding-right:40px;
+    text-align:right;
+}
+#england{
+    background-image:url(images/england.png);
+    background-repeat:no-repeat;
+    background-position:left;
+    text-align:left;
+    padding-left:40px;
+}
+#argentina{
+    background-image:url(images/argentina.png);
+    background-repeat:no-repeat;
+    background-position:right;
+    padding-right:40px;
+    text-align:right;
+}
+#bosnia{
+    background-image:url(images/bosnia.png);
+    background-repeat:no-repeat;
+    background-position:left;
+    text-align:left;
+    padding-left:40px;
+}
+#germany{
+    background-image:url(images/germany.png);
+    background-repeat:no-repeat;
+    border-bottom-left-radius:20px;
+    background-position:right;
+    padding-right:40px;
+    text-align:right;
+}
+#portugal{
+    background-image:url(images/portugal.png);
+    background-repeat:no-repeat;
+    background-position:left;
+    text-align:left;
+    padding-left:40px;
+}
+#radius-bottom-right{
+    border-bottom-right-radius:20px;
+}
+#border-top-left{
+    border-top-left-radius:20px;
+}
+#border-top-right{
+    border-top-right-radius:20px;
+}
+.country-col{
+    width:150px;
+}
+.smaller-col{
+    width:80px;
+}
+.country-res{
+    width:130px;
+}
+#select{
+    width:100px;
+}
+input[type=button]{
+    width:40px;
+    border-radius:50px;
+    padding:0px;
+    height:40px;
+    background-color:#FF0000;
+    color:white;
+}
+#active,#active2{
+    background-color:#008000;
+}
+td:nth-of-type(5){
+    text-align:right;
+    padding-right:10px;
+}
+td:nth-of-type(7){
+    text-align:left;
+    padding-left:10px;
+}
+thead{
+    font-weight:800;
+}
+thead th{
+    padding-top:15px;
+    vertical-align:central;
+    font-size:larger;
+}
+.disabled{
+    color:red;
+    height:30px;
+}
+.enabled{
+    color:#008000;
+    height:30px;
+}

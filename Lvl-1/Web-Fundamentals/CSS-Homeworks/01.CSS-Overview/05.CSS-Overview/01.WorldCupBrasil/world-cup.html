@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>World Cup Brasil</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th id="border-top-left" class="country-col">Country</th>
+                <th class="smaller-col">Result</th>
+                <th class="country-col">Country</th>
+                <th  class="smaller-col">Group</th>
+                <th colspan="4" id="border-top-right">Place a bet</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="odd">
+                <td id="brasil">Brasil</td>
+                <td>1-3</td>
+                <td id="mexico">Mexico</td>
+                <td>A</td>
+                <td class="country-res">Brasil</td>
+                <td id="select">
+                    <select disabled="disabled" class="disabled">
+                        <option value="1">1</option>
+                    </select>
+                    <span> - </span>
+                    <select disabled="disabled" class="disabled">
+                        <option value="1">1</option>
+                    </select>
+                </td>
+                <td class="country-res">Mexico</td>
+                <td>
+                    <input type="button" value="BET"/>
+                </td>
+            </tr>
+            <tr class="even">
+                <td id="spain">Spain</td>
+                <td>1-5</td>
+                <td id="netherlands">Netherlands</td>
+                <td>B</td>
+                <td>Spain</td>
+                <td>
+                    <select disabled="disabled" class="disabled" >
+                        <option value="1">1</option>
+                    </select>
+                    <span> - </span>
+                    <select disabled="disabled" class="disabled">
+                        <option value="1">1</option>
+                    </select>
+                </td>
+                <td>Netherlands</td>
+                <td>
+                    <input type="button" value="BET"/>
+                </td>
+            </tr>
+            <tr class="odd">
+                <td id="italy">Italy</td>
+                <td>2-1</td>
+                <td id="england">England</td>
+                <td>C</td>
+                <td>Italy</td>
+                <td>
+                <select disabled="disabled" class="disabled">
+                        <option value="1">1</option>
+                    </select>
+                    <span> - </span>
+                    <select disabled="disabled" class="disabled">
+                        <option value="1">1</option>
+                    </select>
+                </td>
+                <td>England</td>
+                <td>
+                    <input type="button" value="BET"/>
+                </td>
+            </tr>
+            <tr class="even">
+                <td id="argentina">Argentina</td>
+                <td>-</td>
+                <td id="bosnia">Bosnia and Herz</td>
+                <td>F</td>
+                <td>Argentina</td>
+                <td>
+                <select class="enabled">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                    <span> - </span>
+                    <select class="enabled">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </td>
+                <td>Bosnia and Herz</td>
+                <td>
+                    <input type="button" value="BET" id="active2"/>
+                </td>
+            </tr>
+            <tr class="odd">
+                <td id="germany">Germany</td>
+                <td>-</td>
+                <td id="portugal">Portugal</td>
+                <td>E</td>
+                <td>Germany</td>
+                <td>
+                    <select class="enabled">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                    <span> - </span>
+                    <select class="enabled">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </td>
+                <td>Portugal</td>
+                <td id="radius-bottom-right">
+                    <input type="button" value="BET" id="active"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

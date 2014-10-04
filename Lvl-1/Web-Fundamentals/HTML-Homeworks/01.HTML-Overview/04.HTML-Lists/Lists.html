@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HTML Lists</title>
+    <link rel="stylesheet" href="styles.css" type="text/css"/>
+</head>
+<body>
+    <div>
+        <p>Preceding text</p>
+        <ol>
+            <li>List item 1
+                <ol id="first">
+                    <li>Nested item 1.1</li>
+                    <li>Nested item 1.2</li>
+                </ol>
+            </li>
+            <li>List item 2
+                <ol id="second">
+                    <li>Nested item 2.1</li>
+                    <li>Nested item 2.2
+                        <ul>
+                            <li>Nested item 2.2.1</li>
+                            <li>Nested item 2.2.2
+                                <ul>
+                                    <li>Nested item 2.2.2.1</li>
+                                    <li>Nested item 2.2.2.2</li>
+                                </ul>
+                            </li>
+                            <li>Nested item 2.2.3</li>
+                        </ul>
+                    </li>
+                    <li>Nested item 2.3</li>
+                </ol>
+            </li>
+            <li>List item 3
+                <ul id="third">
+                    <li>Nested item 3.1</li>
+                    <li>Nested item 3.2</li>
+                    <li>Nested item 3.3</li>
+                </ul>
+            </li>
+        </ol>
+    </div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+﻿body {
+    background-color:#ADD8E6;
+    padding-left:10px;
+}
+hr{
+    color:grey;
+}
+img{
+   padding:1px;
+   border:1px solid black;
+   width:200px;
+   height:200px;
+}
+h2{
+    font-size:28px;
+}
+h1{
+    font-size:36px;
+}
+li{
+    font-size:18px;
+}
+p{
+    margin:5px;
+    font-size:18px;
+}
+span{
+    font-weight:700;
+}
+dt{
+    font-style:italic;
+}

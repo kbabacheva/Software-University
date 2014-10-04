@@ -1,0 +1,21 @@
+﻿body{
+    font-family:Calibri;
+}
+table{
+    width:400px;
+}
+th{
+    font-size:34px;
+    text-align:left;
+}
+h3{
+    font-size:22px;
+    margin-bottom:0px;
+}
+h3,p{
+    margin-left:5px;
+}
+p{
+    margin-top:0px;
+}
+

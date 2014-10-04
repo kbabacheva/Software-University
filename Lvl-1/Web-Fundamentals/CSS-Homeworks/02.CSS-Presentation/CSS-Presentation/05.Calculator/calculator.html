@@ -1,0 +1,130 @@
+﻿<!doctype html>
+<html>
+<head>
+    <title>Programmers' Calculator</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="styles.css" type="text/css" />
+    <script src="script.js" type="text/javascript"></script>
+</head>
+<body>
+    <!--My calculator has some functuonality, but not all the buttons work-->
+	<form name="calc">
+		<div id="wrapper">
+			<div id="Calculator">
+				<ul id="menu">
+					<li><a href="#">View</a></li>
+					<li><a href="#">Edit</a></li>
+					<li><a href="#">Help</a></li>
+				</ul>		
+				<input type="text" name="result" id="numArea" class="border"/>	
+				<div id="bitBox" class="border">
+					<ul class="bits">
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+					</ul>
+					<ul class="bits special">
+						<li>63</li><li>47</li><li>32</li>
+					</ul>
+					<ul class="bits">
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+						<li>0000</li>
+					</ul>
+					<ul class="bits special1">
+						<li>31</li><li>15</li><li>0</li>
+					</ul>
+				</div>			
+				<div id="leftside">
+					<div id="numSys">
+						<div class="numeral">
+						    <span><label><input type="radio" name="numeralSystem" /> Hex</label></span>
+						    <span><label><input type="radio" name="numeralSystem" checked="checked" /> Dec</label></span>
+						    <span><label><input type="radio" name="numeralSystem" /> Oct</label></span>
+						    <span><label><input type="radio" name="numeralSystem" /> Bin</label></span>
+						</div>
+						<div class="numeral">	
+						    <span><label><input type="radio" name="size" checked="checked"/> Qword</label></span>
+						    <span><label><input type="radio" name="size" /> Dword</label></span>
+						    <span><label><input type="radio" name="size" /> Word</label></span>
+						    <span><label><input type="radio" name="size" /> Byte</label></span>
+						</div>
+    			    </div>			
+			    	<div id="buttons">
+					    <div class="row">
+					        <input type="button" class="darkactive border" id="empty" value="&nbsp;"/>
+				            <input type="button" class="normal border" value="Mod"/>
+				            <input type="button" class="muted" disabled="disabled" value="A"/>
+				            <input type="button" class="darkactive border" value="MC"/>
+				            <input type="button" class="darkactive border" value="MR"/>
+				            <input type="button" class="darkactive border" value="MS"/>
+				            <input type="button" class="darkactive border" value="M+"/>
+				            <input type="button" class="darkactive border" value="M-"/>
+					    </div>			
+					    <div class="row">
+		     		        <input type="button" class="normal border" value="(" onclick="runbracketleft()"/>
+		     		        <input type="button" class="normal border" value=")" onclick="runbracketright()"/>
+		     		        <input type="button" class="muted" disabled="disabled" value="B"/>
+		     		        <input type="button" class="normal border" value="&larr;"/>
+		     		        <input type="button" class="normal border" value="CE" onclick="runclear()"/>
+		     	       	    <input type="button" class="normal border" value="C" onclick="runclear()"/>
+		     		        <input type="button" class="normal border" value="&#177;"/>
+		     	       	    <input type="button" class="muted" disabled="disabled" value="&#8730;"/>
+		     	        </div>        
+		     	        <div class="row">
+		     		        <input type="button" class="normal border" value="RoL"/>
+		     		        <input type="button" class="normal border" value="RoR"/>
+		     		        <input type="button" class="muted" disabled="disabled" value="C"/>
+		     		        <input type="button" class="other border" value="7" onclick="run7()"/>
+		     		        <input type="button" class="other border" value="8" onclick="run8()"/>
+		     		        <input type="button" class="other border" value="9" onclick="run9()"/>
+		     		        <input type="button" class="normal border" value="/" onclick="rundivide()"/>
+		     		        <input type="button" class="muted" disabled="disabled" value="%"/>
+		     	        </div>  
+		     	        <div class="row">
+		     		        <input type="button" class="normal border" value="Or"/>
+		     		        <input type="button" class="normal border" value="Xor"/>
+		     		        <input type="button" class="muted" disabled="disabled" value="D"/>
+		     		        <input type="button" class="other border" value="4" onclick="run4()"/>
+		     		        <input type="button" class="other border" value="5" onclick="run5()"/>
+		     		        <input type="button" class="other border" value="6" onclick="run6()"/>
+		     		        <input type="button" class="normal border" value="*" onclick="runmultyply()"/>
+		     		        <input type="button" class="muted" disabled="disabled" value="1/&chi;"/>
+		     	        </div>
+		     	        <div class="row">
+		         	        <input type="button" class="normal border" id="equals" value="=" onclick="evalu()"/>
+		                </div>
+		     	        <div class="row">
+		     		        <input type="button" class="normal border" value="Lsh"/>
+		     		        <input type="button" class="normal border" value="Rsh"/>
+		     		        <input type="button" class="muted" disabled="disabled" value="E"/>
+		     		        <input type="button" class="other border" value="1" onclick="run1()"/>
+		     		        <input type="button" class="other border" value="2" onclick="run2()"/>
+		     		        <input type="button" class="other" value="3" onclick="run3()"/>
+		     		        <input type="button" class="normal border" value="-" onclick="runminus()"/>
+		                </div>   
+		                <div class="row">
+		         	        <input type="button" class="normal border" value="Not"/>
+		         	        <input type="button" class="normal border" value="And"/>
+		         	        <input type="button" class="muted" disabled="disabled" value="F"/>
+		         	        <input type="button" class="other border" id="zero" value="0" onclick="run0()"/>
+		         	        <input type="button" class="muted" disabled="disabled" value="." onclick="runpoint()"/>
+		         	        <input type="button" class="normal border" value="+" onclick="runplus()"/>
+		         	    </div>
+		            </div>
+                </div>
+			</div>
+	    </div>
+	</form>
+</body>
+</html>

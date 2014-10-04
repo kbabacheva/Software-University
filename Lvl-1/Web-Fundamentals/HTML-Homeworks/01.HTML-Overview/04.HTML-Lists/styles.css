@@ -1,0 +1,39 @@
+﻿div{
+    width:18%;
+    border:1px solid grey;
+    border-radius:10px;
+    padding:10px;
+    margin:10px;
+}
+ol{
+    list-style-type:upper-roman;
+    padding-left:30px;
+}
+ol > li{
+    padding-left:10px;
+}
+#first{
+    list-style-type:lower-alpha;
+    margin-left:0px;
+}
+#first li, #second li, #third li{
+    padding-left:5px;
+    margin-left:-10px;
+}
+#second{
+    list-style-type:decimal;
+    margin-left:0px;
+}
+#second > li > ul{
+    list-style-type:circle;
+}
+#second > li > ul > li > ul{
+    list-style-type:square;
+}
+#third{
+    list-style-type:disc;
+    margin-left:-10px;
+}
+p{
+    margin-left:10px;
+}
