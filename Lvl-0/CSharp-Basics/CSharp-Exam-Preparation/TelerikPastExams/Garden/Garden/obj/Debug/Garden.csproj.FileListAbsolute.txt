@@ -1,0 +1,7 @@
+D:\KATYA\VisualStudio\Garden\Garden\bin\Debug\Garden.exe
+D:\KATYA\VisualStudio\Garden\Garden\bin\Debug\Garden.pdb
+D:\KATYA\VisualStudio\Garden\Garden\obj\Debug\Garden.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\Garden\Garden\obj\Debug\Garden.exe
+D:\KATYA\VisualStudio\Garden\Garden\obj\Debug\Garden.pdb
+G:\Tasks\Garden\Garden\obj\Debug\Garden.exe
+G:\Tasks\Garden\Garden\obj\Debug\Garden.pdb

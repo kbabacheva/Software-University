@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\Carpets\Carpets\bin\Debug\Carpets.exe
+F:\Visual Studio stuffs\Carpets\Carpets\bin\Debug\Carpets.pdb
+F:\Visual Studio stuffs\Carpets\Carpets\obj\Debug\Carpets.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Carpets\Carpets\obj\Debug\Carpets.exe
+F:\Visual Studio stuffs\Carpets\Carpets\obj\Debug\Carpets.pdb

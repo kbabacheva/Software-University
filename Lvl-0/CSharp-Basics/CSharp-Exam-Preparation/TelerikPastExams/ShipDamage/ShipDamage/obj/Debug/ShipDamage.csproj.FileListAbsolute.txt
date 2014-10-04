@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\ShipDamage\ShipDamage\bin\Debug\ShipDamage.exe
+F:\Visual Studio stuffs\ShipDamage\ShipDamage\bin\Debug\ShipDamage.pdb
+F:\Visual Studio stuffs\ShipDamage\ShipDamage\obj\Debug\ShipDamage.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\ShipDamage\ShipDamage\obj\Debug\ShipDamage.exe
+F:\Visual Studio stuffs\ShipDamage\ShipDamage\obj\Debug\ShipDamage.pdb

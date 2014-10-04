@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\QuadronacciRectangle\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\QuadronacciRectangle\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.exe
+F:\Visual Studio stuffs\QuadronacciRectangle\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.pdb
+F:\Visual Studio stuffs\QuadronacciRectangle\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.exe
+F:\Visual Studio stuffs\QuadronacciRectangle\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.pdb

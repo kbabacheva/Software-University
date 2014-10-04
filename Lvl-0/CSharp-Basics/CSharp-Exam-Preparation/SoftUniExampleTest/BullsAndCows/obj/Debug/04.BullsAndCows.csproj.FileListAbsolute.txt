@@ -1,0 +1,2 @@
+F:\Visual Studio stuffs\ExamPreparation\BullsAndCows\obj\Debug\BullsAndCows.exe
+F:\Visual Studio stuffs\ExamPreparation\BullsAndCows\obj\Debug\BullsAndCows.pdb

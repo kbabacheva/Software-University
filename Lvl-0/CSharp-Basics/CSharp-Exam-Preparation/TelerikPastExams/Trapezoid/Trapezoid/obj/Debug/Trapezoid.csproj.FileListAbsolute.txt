@@ -1,0 +1,4 @@
+D:\KATYA\VisualStudio\Trapezoid\Trapezoid\bin\Debug\Trapezoid.exe
+D:\KATYA\VisualStudio\Trapezoid\Trapezoid\bin\Debug\Trapezoid.pdb
+D:\KATYA\VisualStudio\Trapezoid\Trapezoid\obj\Debug\Trapezoid.exe
+D:\KATYA\VisualStudio\Trapezoid\Trapezoid\obj\Debug\Trapezoid.pdb

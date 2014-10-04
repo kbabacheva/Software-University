@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\KaspichaniaBoats\KaspichaniaBoats\bin\Debug\KaspichaniaBoats.exe
+F:\Visual Studio stuffs\KaspichaniaBoats\KaspichaniaBoats\bin\Debug\KaspichaniaBoats.pdb
+F:\Visual Studio stuffs\KaspichaniaBoats\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\KaspichaniaBoats\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.exe
+F:\Visual Studio stuffs\KaspichaniaBoats\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.pdb

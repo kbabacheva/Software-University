@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\Eggcelent\Eggcelent\bin\Debug\Eggcelent.exe
+F:\Visual Studio stuffs\Eggcelent\Eggcelent\bin\Debug\Eggcelent.pdb
+F:\Visual Studio stuffs\Eggcelent\Eggcelent\obj\Debug\Eggcelent.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Eggcelent\Eggcelent\obj\Debug\Eggcelent.exe
+F:\Visual Studio stuffs\Eggcelent\Eggcelent\obj\Debug\Eggcelent.pdb

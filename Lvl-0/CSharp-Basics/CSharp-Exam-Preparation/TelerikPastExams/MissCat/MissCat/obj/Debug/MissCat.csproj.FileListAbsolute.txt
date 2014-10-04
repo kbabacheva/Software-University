@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\MissCat\MissCat\bin\Debug\MissCat.exe
+F:\Visual Studio stuffs\MissCat\MissCat\bin\Debug\MissCat.pdb
+F:\Visual Studio stuffs\MissCat\MissCat\obj\Debug\MissCat.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\MissCat\MissCat\obj\Debug\MissCat.exe
+F:\Visual Studio stuffs\MissCat\MissCat\obj\Debug\MissCat.pdb

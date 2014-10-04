@@ -1,0 +1,7 @@
+D:\KATYA\VisualStudio\A-nacci\A-nacci\bin\Debug\A-nacci.exe
+D:\KATYA\VisualStudio\A-nacci\A-nacci\bin\Debug\A-nacci.pdb
+D:\KATYA\VisualStudio\A-nacci\A-nacci\obj\Debug\A-nacci.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\A-nacci\A-nacci\obj\Debug\A-nacci.exe
+D:\KATYA\VisualStudio\A-nacci\A-nacci\obj\Debug\A-nacci.pdb
+E:\GitHub\ExamPreparation\TelerikPastExams\A-nacci\A-nacci\obj\Debug\A-nacci.exe
+E:\GitHub\ExamPreparation\TelerikPastExams\A-nacci\A-nacci\obj\Debug\A-nacci.pdb

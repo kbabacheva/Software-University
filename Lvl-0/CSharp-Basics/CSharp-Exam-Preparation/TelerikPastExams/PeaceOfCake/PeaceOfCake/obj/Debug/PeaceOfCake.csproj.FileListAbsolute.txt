@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\PeaceOfCake\PeaceOfCake\obj\Debug\PeaceOfCake.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\PeaceOfCake\PeaceOfCake\bin\Debug\PeaceOfCake.exe
+F:\Visual Studio stuffs\PeaceOfCake\PeaceOfCake\bin\Debug\PeaceOfCake.pdb
+F:\Visual Studio stuffs\PeaceOfCake\PeaceOfCake\obj\Debug\PeaceOfCake.exe
+F:\Visual Studio stuffs\PeaceOfCake\PeaceOfCake\obj\Debug\PeaceOfCake.pdb

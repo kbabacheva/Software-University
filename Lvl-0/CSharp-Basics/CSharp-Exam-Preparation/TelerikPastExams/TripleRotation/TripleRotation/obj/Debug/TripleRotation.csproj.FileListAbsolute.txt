@@ -1,0 +1,5 @@
+D:\KATYA\VisualStudio\TripleRotation\TripleRotation\bin\Debug\TripleRotation.exe
+D:\KATYA\VisualStudio\TripleRotation\TripleRotation\bin\Debug\TripleRotation.pdb
+D:\KATYA\VisualStudio\TripleRotation\TripleRotation\obj\Debug\TripleRotation.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\TripleRotation\TripleRotation\obj\Debug\TripleRotation.exe
+D:\KATYA\VisualStudio\TripleRotation\TripleRotation\obj\Debug\TripleRotation.pdb

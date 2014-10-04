@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\BitBall\BitBall\bin\Debug\BitBall.exe
+F:\Visual Studio stuffs\BitBall\BitBall\bin\Debug\BitBall.pdb
+F:\Visual Studio stuffs\BitBall\BitBall\obj\Debug\BitBall.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\BitBall\BitBall\obj\Debug\BitBall.exe
+F:\Visual Studio stuffs\BitBall\BitBall\obj\Debug\BitBall.pdb

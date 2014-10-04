@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\Lines\Lines\bin\Debug\Lines.exe
+F:\Visual Studio stuffs\Lines\Lines\bin\Debug\Lines.pdb
+F:\Visual Studio stuffs\Lines\Lines\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Lines\Lines\obj\Debug\Lines.exe
+F:\Visual Studio stuffs\Lines\Lines\obj\Debug\Lines.pdb

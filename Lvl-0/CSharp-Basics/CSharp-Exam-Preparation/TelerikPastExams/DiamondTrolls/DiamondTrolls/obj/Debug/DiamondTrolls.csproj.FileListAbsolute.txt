@@ -1,0 +1,5 @@
+D:\KATYA\VisualStudio\DiamondTrolls\DiamondTrolls\bin\Debug\DiamondTrolls.exe
+D:\KATYA\VisualStudio\DiamondTrolls\DiamondTrolls\bin\Debug\DiamondTrolls.pdb
+D:\KATYA\VisualStudio\DiamondTrolls\DiamondTrolls\obj\Debug\DiamondTrolls.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\DiamondTrolls\DiamondTrolls\obj\Debug\DiamondTrolls.exe
+D:\KATYA\VisualStudio\DiamondTrolls\DiamondTrolls\obj\Debug\DiamondTrolls.pdb

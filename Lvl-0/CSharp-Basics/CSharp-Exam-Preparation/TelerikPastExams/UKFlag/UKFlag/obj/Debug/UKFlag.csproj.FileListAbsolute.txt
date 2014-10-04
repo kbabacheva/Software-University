@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\UKFlag\UKFlag\bin\Debug\UKFlag.exe
+F:\Visual Studio stuffs\UKFlag\UKFlag\bin\Debug\UKFlag.pdb
+F:\Visual Studio stuffs\UKFlag\UKFlag\obj\Debug\UKFlag.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\UKFlag\UKFlag\obj\Debug\UKFlag.exe
+F:\Visual Studio stuffs\UKFlag\UKFlag\obj\Debug\UKFlag.pdb

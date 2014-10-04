@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\Fire\Fire\bin\Debug\Fire.exe
+F:\Visual Studio stuffs\Fire\Fire\bin\Debug\Fire.pdb
+F:\Visual Studio stuffs\Fire\Fire\obj\Debug\Fire.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Fire\Fire\obj\Debug\Fire.exe
+F:\Visual Studio stuffs\Fire\Fire\obj\Debug\Fire.pdb

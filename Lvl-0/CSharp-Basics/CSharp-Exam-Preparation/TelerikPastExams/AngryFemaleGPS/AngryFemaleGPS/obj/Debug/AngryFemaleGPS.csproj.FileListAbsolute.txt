@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\AngryFemaleGPS\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe
+F:\Visual Studio stuffs\AngryFemaleGPS\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.pdb
+F:\Visual Studio stuffs\AngryFemaleGPS\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\AngryFemaleGPS\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.exe
+F:\Visual Studio stuffs\AngryFemaleGPS\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.pdb

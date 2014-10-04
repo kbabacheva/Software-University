@@ -1,0 +1,7 @@
+D:\KATYA\VisualStudio\ForestRoad\ForestRoad\bin\Debug\ForestRoad.exe
+D:\KATYA\VisualStudio\ForestRoad\ForestRoad\bin\Debug\ForestRoad.pdb
+D:\KATYA\VisualStudio\ForestRoad\ForestRoad\obj\Debug\ForestRoad.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\ForestRoad\ForestRoad\obj\Debug\ForestRoad.exe
+D:\KATYA\VisualStudio\ForestRoad\ForestRoad\obj\Debug\ForestRoad.pdb
+E:\GitHub\ExamPreparation\TelerikPastExams\ForestRoad\ForestRoad\obj\Debug\ForestRoad.exe
+E:\GitHub\ExamPreparation\TelerikPastExams\ForestRoad\ForestRoad\obj\Debug\ForestRoad.pdb

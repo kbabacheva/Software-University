@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\ArtrologicalDgits\ArtrologicalDgits\bin\Debug\ArtrologicalDgits.exe
+F:\Visual Studio stuffs\ArtrologicalDgits\ArtrologicalDgits\bin\Debug\ArtrologicalDgits.pdb
+F:\Visual Studio stuffs\ArtrologicalDgits\ArtrologicalDgits\obj\Debug\ArtrologicalDgits.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\ArtrologicalDgits\ArtrologicalDgits\obj\Debug\ArtrologicalDgits.exe
+F:\Visual Studio stuffs\ArtrologicalDgits\ArtrologicalDgits\obj\Debug\ArtrologicalDgits.pdb

@@ -1,0 +1,6 @@
+D:\KATYA\VisualStudio\SeverlandNumbers\SeverlandNumbers\bin\Debug\SeverlandNumbers.exe.config
+D:\KATYA\VisualStudio\SeverlandNumbers\SeverlandNumbers\bin\Debug\SeverlandNumbers.exe
+D:\KATYA\VisualStudio\SeverlandNumbers\SeverlandNumbers\bin\Debug\SeverlandNumbers.pdb
+D:\KATYA\VisualStudio\SeverlandNumbers\SeverlandNumbers\obj\Debug\SeverlandNumbers.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\SeverlandNumbers\SeverlandNumbers\obj\Debug\SeverlandNumbers.exe
+D:\KATYA\VisualStudio\SeverlandNumbers\SeverlandNumbers\obj\Debug\SeverlandNumbers.pdb

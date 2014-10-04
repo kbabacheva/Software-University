@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\OnesAndZeros\OnesAndZeros\bin\Debug\OnesAndZeros.exe
+F:\Visual Studio stuffs\OnesAndZeros\OnesAndZeros\bin\Debug\OnesAndZeros.pdb
+F:\Visual Studio stuffs\OnesAndZeros\OnesAndZeros\obj\Debug\OnesAndZeros.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\OnesAndZeros\OnesAndZeros\obj\Debug\OnesAndZeros.exe
+F:\Visual Studio stuffs\OnesAndZeros\OnesAndZeros\obj\Debug\OnesAndZeros.pdb

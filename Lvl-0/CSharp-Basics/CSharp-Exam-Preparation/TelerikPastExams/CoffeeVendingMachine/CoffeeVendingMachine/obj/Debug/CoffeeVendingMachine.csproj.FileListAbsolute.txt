@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe
+F:\Visual Studio stuffs\CoffeeVendingMachine\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.pdb
+F:\Visual Studio stuffs\CoffeeVendingMachine\CoffeeVendingMachine\obj\Debug\CoffeeVendingMachine.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\CoffeeVendingMachine\CoffeeVendingMachine\obj\Debug\CoffeeVendingMachine.exe
+F:\Visual Studio stuffs\CoffeeVendingMachine\CoffeeVendingMachine\obj\Debug\CoffeeVendingMachine.pdb

@@ -1,0 +1,7 @@
+D:\KATYA\VisualStudio\TheHorror\TheHorror\obj\Debug\TheHorror.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\TheHorror\TheHorror\bin\Debug\TheHorror.exe
+D:\KATYA\VisualStudio\TheHorror\TheHorror\bin\Debug\TheHorror.pdb
+D:\KATYA\VisualStudio\TheHorror\TheHorror\obj\Debug\TheHorror.exe
+D:\KATYA\VisualStudio\TheHorror\TheHorror\obj\Debug\TheHorror.pdb
+E:\GitHub\ExamPreparation\TelerikPastExams\TheHorror\TheHorror\obj\Debug\TheHorror.exe
+E:\GitHub\ExamPreparation\TelerikPastExams\TheHorror\TheHorror\obj\Debug\TheHorror.pdb

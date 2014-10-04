@@ -1,0 +1,5 @@
+D:\KATYA\VisualStudio\LeastMajorityMultiple\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\LeastMajorityMultiple\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+D:\KATYA\VisualStudio\LeastMajorityMultiple\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+D:\KATYA\VisualStudio\LeastMajorityMultiple\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+D:\KATYA\VisualStudio\LeastMajorityMultiple\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

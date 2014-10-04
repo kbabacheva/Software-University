@@ -1,0 +1,5 @@
+D:\KATYA\VisualStudio\OddNumber\OddNumber\bin\Debug\OddNumber.exe
+D:\KATYA\VisualStudio\OddNumber\OddNumber\bin\Debug\OddNumber.pdb
+D:\KATYA\VisualStudio\OddNumber\OddNumber\obj\Debug\OddNumber.exe
+D:\KATYA\VisualStudio\OddNumber\OddNumber\obj\Debug\OddNumber.pdb
+D:\KATYA\VisualStudio\OddNumber\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\ExamPreparation\05.WeAllLoveBits\bin\Debug\05.WeAllLoveBits.exe
+F:\Visual Studio stuffs\ExamPreparation\05.WeAllLoveBits\bin\Debug\05.WeAllLoveBits.pdb
+F:\Visual Studio stuffs\ExamPreparation\05.WeAllLoveBits\obj\Debug\05.WeAllLoveBits.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\ExamPreparation\05.WeAllLoveBits\obj\Debug\05.WeAllLoveBits.exe
+F:\Visual Studio stuffs\ExamPreparation\05.WeAllLoveBits\obj\Debug\05.WeAllLoveBits.pdb

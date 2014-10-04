@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\DrunkNumbers\DrunkNumbers\bin\Debug\DrunkNumbers.exe
+F:\Visual Studio stuffs\DrunkNumbers\DrunkNumbers\bin\Debug\DrunkNumbers.pdb
+F:\Visual Studio stuffs\DrunkNumbers\DrunkNumbers\obj\Debug\DrunkNumbers.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\DrunkNumbers\DrunkNumbers\obj\Debug\DrunkNumbers.exe
+F:\Visual Studio stuffs\DrunkNumbers\DrunkNumbers\obj\Debug\DrunkNumbers.pdb

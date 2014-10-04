@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\Neurons\Neurons\bin\Debug\Neurons.exe
+F:\Visual Studio stuffs\Neurons\Neurons\bin\Debug\Neurons.pdb
+F:\Visual Studio stuffs\Neurons\Neurons\obj\Debug\Neurons.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Neurons\Neurons\obj\Debug\Neurons.exe
+F:\Visual Studio stuffs\Neurons\Neurons\obj\Debug\Neurons.pdb

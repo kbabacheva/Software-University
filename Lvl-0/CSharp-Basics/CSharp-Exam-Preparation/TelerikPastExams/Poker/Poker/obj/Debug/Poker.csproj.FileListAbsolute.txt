@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\Poker\Poker\bin\Debug\Poker.exe
+F:\Visual Studio stuffs\Poker\Poker\bin\Debug\Poker.pdb
+F:\Visual Studio stuffs\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Poker\Poker\obj\Debug\Poker.exe
+F:\Visual Studio stuffs\Poker\Poker\obj\Debug\Poker.pdb

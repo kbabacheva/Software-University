@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\FormulaBit\FormulaBit\bin\Debug\FormulaBit.exe
+F:\Visual Studio stuffs\FormulaBit\FormulaBit\bin\Debug\FormulaBit.pdb
+F:\Visual Studio stuffs\FormulaBit\FormulaBit\obj\Debug\FormulaBit.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\FormulaBit\FormulaBit\obj\Debug\FormulaBit.exe
+F:\Visual Studio stuffs\FormulaBit\FormulaBit\obj\Debug\FormulaBit.pdb

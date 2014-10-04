@@ -1,0 +1,7 @@
+F:\Visual Studio stuffs\ExamPreparation\01.CartesianCoordinateSystem\bin\Debug\01.CartesianCoordinateSystem.exe
+F:\Visual Studio stuffs\ExamPreparation\01.CartesianCoordinateSystem\bin\Debug\01.CartesianCoordinateSystem.pdb
+F:\Visual Studio stuffs\ExamPreparation\01.CartesianCoordinateSystem\obj\Debug\01.CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\ExamPreparation\01.CartesianCoordinateSystem\obj\Debug\01.CartesianCoordinateSystem.exe
+F:\Visual Studio stuffs\ExamPreparation\01.CartesianCoordinateSystem\obj\Debug\01.CartesianCoordinateSystem.pdb
+E:\GitHub\ExamPreparation\SoftUniExampleTest\01.CartesianCoordinateSystem\obj\Debug\01.CartesianCoordinateSystem.exe
+E:\GitHub\ExamPreparation\SoftUniExampleTest\01.CartesianCoordinateSystem\obj\Debug\01.CartesianCoordinateSystem.pdb

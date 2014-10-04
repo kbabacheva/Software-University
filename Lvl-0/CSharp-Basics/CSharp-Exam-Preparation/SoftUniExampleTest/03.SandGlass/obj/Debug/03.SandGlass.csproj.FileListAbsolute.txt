@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\ExamPreparation\03.SandGlass\bin\Debug\03.SandGlass.exe
+F:\Visual Studio stuffs\ExamPreparation\03.SandGlass\bin\Debug\03.SandGlass.pdb
+F:\Visual Studio stuffs\ExamPreparation\03.SandGlass\obj\Debug\03.SandGlass.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\ExamPreparation\03.SandGlass\obj\Debug\03.SandGlass.exe
+F:\Visual Studio stuffs\ExamPreparation\03.SandGlass\obj\Debug\03.SandGlass.pdb

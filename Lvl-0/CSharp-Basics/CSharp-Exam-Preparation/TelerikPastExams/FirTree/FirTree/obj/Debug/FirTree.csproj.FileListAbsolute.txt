@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\FirTree\FirTree\bin\Debug\FirTree.exe
+F:\Visual Studio stuffs\FirTree\FirTree\bin\Debug\FirTree.pdb
+F:\Visual Studio stuffs\FirTree\FirTree\obj\Debug\FirTree.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\FirTree\FirTree\obj\Debug\FirTree.exe
+F:\Visual Studio stuffs\FirTree\FirTree\obj\Debug\FirTree.pdb

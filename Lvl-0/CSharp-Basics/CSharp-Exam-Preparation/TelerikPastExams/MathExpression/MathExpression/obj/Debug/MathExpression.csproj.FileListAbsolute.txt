@@ -1,0 +1,5 @@
+D:\KATYA\VisualStudio\MathExpression\MathExpression\bin\Debug\MathExpression.exe
+D:\KATYA\VisualStudio\MathExpression\MathExpression\bin\Debug\MathExpression.pdb
+D:\KATYA\VisualStudio\MathExpression\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\MathExpression\MathExpression\obj\Debug\MathExpression.exe
+D:\KATYA\VisualStudio\MathExpression\MathExpression\obj\Debug\MathExpression.pdb

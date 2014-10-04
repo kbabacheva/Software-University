@@ -1,0 +1,6 @@
+F:\Visual Studio stuffs\TwoFourEight\TwoFourEight\bin\Debug\TwoFourEight.exe.config
+F:\Visual Studio stuffs\TwoFourEight\TwoFourEight\bin\Debug\TwoFourEight.exe
+F:\Visual Studio stuffs\TwoFourEight\TwoFourEight\bin\Debug\TwoFourEight.pdb
+F:\Visual Studio stuffs\TwoFourEight\TwoFourEight\obj\Debug\TwoFourEight.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\TwoFourEight\TwoFourEight\obj\Debug\TwoFourEight.exe
+F:\Visual Studio stuffs\TwoFourEight\TwoFourEight\obj\Debug\TwoFourEight.pdb

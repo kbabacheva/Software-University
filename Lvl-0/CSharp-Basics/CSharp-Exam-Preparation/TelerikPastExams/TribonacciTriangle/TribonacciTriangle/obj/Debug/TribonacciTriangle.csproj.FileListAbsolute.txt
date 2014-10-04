@@ -1,0 +1,5 @@
+D:\KATYA\VisualStudio\TribonacciTriangle\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe
+D:\KATYA\VisualStudio\TribonacciTriangle\TribonacciTriangle\bin\Debug\TribonacciTriangle.pdb
+D:\KATYA\VisualStudio\TribonacciTriangle\TribonacciTriangle\obj\Debug\TribonacciTriangle.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\TribonacciTriangle\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+D:\KATYA\VisualStudio\TribonacciTriangle\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb

@@ -1,0 +1,6 @@
+D:\KATYA\VisualStudio\ApplesOrOranges\ApplesOrOranges\bin\Debug\ApplesOrOranges.exe.config
+D:\KATYA\VisualStudio\ApplesOrOranges\ApplesOrOranges\bin\Debug\ApplesOrOranges.exe
+D:\KATYA\VisualStudio\ApplesOrOranges\ApplesOrOranges\bin\Debug\ApplesOrOranges.pdb
+D:\KATYA\VisualStudio\ApplesOrOranges\ApplesOrOranges\obj\Debug\ApplesOrOranges.csprojResolveAssemblyReference.cache
+D:\KATYA\VisualStudio\ApplesOrOranges\ApplesOrOranges\obj\Debug\ApplesOrOranges.exe
+D:\KATYA\VisualStudio\ApplesOrOranges\ApplesOrOranges\obj\Debug\ApplesOrOranges.pdb

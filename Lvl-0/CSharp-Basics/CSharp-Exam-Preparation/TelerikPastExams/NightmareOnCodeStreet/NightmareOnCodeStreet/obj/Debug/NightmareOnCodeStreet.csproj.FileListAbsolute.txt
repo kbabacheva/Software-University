@@ -1,0 +1,7 @@
+F:\Visual Studio stuffs\NightmareOnCodeStreet\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe
+F:\Visual Studio stuffs\NightmareOnCodeStreet\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.pdb
+F:\Visual Studio stuffs\NightmareOnCodeStreet\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\NightmareOnCodeStreet\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.exe
+F:\Visual Studio stuffs\NightmareOnCodeStreet\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.pdb
+E:\GitHub\ExamPreparation\TelerikPastExams\NightmareOnCodeStreet\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.exe
+E:\GitHub\ExamPreparation\TelerikPastExams\NightmareOnCodeStreet\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.pdb

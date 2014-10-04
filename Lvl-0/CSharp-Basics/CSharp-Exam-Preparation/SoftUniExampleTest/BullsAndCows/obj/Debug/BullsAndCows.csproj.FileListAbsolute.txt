@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\ExamPreparation\BullsAndCows\bin\Debug\BullsAndCows.exe
+F:\Visual Studio stuffs\ExamPreparation\BullsAndCows\bin\Debug\BullsAndCows.pdb
+F:\Visual Studio stuffs\ExamPreparation\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\ExamPreparation\BullsAndCows\obj\Debug\BullsAndCows.exe
+F:\Visual Studio stuffs\ExamPreparation\BullsAndCows\obj\Debug\BullsAndCows.pdb

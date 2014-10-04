@@ -1,0 +1,5 @@
+F:\Visual Studio stuffs\CardWars\CardWars\bin\Debug\CardWars.exe
+F:\Visual Studio stuffs\CardWars\CardWars\bin\Debug\CardWars.pdb
+F:\Visual Studio stuffs\CardWars\CardWars\obj\Debug\CardWars.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\CardWars\CardWars\obj\Debug\CardWars.exe
+F:\Visual Studio stuffs\CardWars\CardWars\obj\Debug\CardWars.pdb
