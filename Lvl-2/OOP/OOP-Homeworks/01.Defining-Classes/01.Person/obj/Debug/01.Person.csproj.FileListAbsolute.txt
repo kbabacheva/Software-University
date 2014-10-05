@@ -1,0 +1,6 @@
+F:\Visual Studio stuffs\01.Defining-Classes\01.Person\bin\Debug\01.Person.exe.config
+F:\Visual Studio stuffs\01.Defining-Classes\01.Person\bin\Debug\01.Person.exe
+F:\Visual Studio stuffs\01.Defining-Classes\01.Person\bin\Debug\01.Person.pdb
+F:\Visual Studio stuffs\01.Defining-Classes\01.Person\obj\Debug\01.Person.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\01.Defining-Classes\01.Person\obj\Debug\01.Person.exe
+F:\Visual Studio stuffs\01.Defining-Classes\01.Person\obj\Debug\01.Person.pdb

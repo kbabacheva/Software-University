@@ -1,0 +1,6 @@
+F:\Visual Studio stuffs\01.Defining-Classes\LaptopShop\bin\Debug\LaptopShop.exe.config
+F:\Visual Studio stuffs\01.Defining-Classes\LaptopShop\bin\Debug\LaptopShop.exe
+F:\Visual Studio stuffs\01.Defining-Classes\LaptopShop\bin\Debug\LaptopShop.pdb
+F:\Visual Studio stuffs\01.Defining-Classes\LaptopShop\obj\Debug\LaptopShop.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\01.Defining-Classes\LaptopShop\obj\Debug\LaptopShop.exe
+F:\Visual Studio stuffs\01.Defining-Classes\LaptopShop\obj\Debug\LaptopShop.pdb
