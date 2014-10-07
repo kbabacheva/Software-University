@@ -1,0 +1,6 @@
+F:\Visual Studio stuffs\Static-Members-and-Namespaces\Point3D\bin\Debug\Point3D.exe.config
+F:\Visual Studio stuffs\Static-Members-and-Namespaces\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Static-Members-and-Namespaces\Point3D\bin\Debug\Point3D.exe
+F:\Visual Studio stuffs\Static-Members-and-Namespaces\Point3D\bin\Debug\Point3D.pdb
+F:\Visual Studio stuffs\Static-Members-and-Namespaces\Point3D\obj\Debug\Point3D.exe
+F:\Visual Studio stuffs\Static-Members-and-Namespaces\Point3D\obj\Debug\Point3D.pdb
