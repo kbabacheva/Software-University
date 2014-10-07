@@ -1,0 +1,6 @@
+F:\Visual Studio stuffs\Exception-Handling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+F:\Visual Studio stuffs\Exception-Handling\EnterNumbers\obj\Debug\EnterNumbers.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Exception-Handling\EnterNumbers\bin\Debug\EnterNumbers.exe
+F:\Visual Studio stuffs\Exception-Handling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+F:\Visual Studio stuffs\Exception-Handling\EnterNumbers\obj\Debug\EnterNumbers.exe
+F:\Visual Studio stuffs\Exception-Handling\EnterNumbers\obj\Debug\EnterNumbers.pdb
