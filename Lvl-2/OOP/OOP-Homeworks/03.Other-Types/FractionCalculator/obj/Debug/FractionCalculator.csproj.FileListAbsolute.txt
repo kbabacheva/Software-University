@@ -1,0 +1,6 @@
+C:\Users\ss\Desktop\Other-Types\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\ss\Desktop\Other-Types\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\ss\Desktop\Other-Types\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\ss\Desktop\Other-Types\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\Other-Types\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\ss\Desktop\Other-Types\FractionCalculator\obj\Debug\FractionCalculator.pdb
