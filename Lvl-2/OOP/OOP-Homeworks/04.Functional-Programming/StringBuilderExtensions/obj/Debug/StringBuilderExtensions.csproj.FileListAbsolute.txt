@@ -1,0 +1,6 @@
+F:\Visual Studio stuffs\Functional-Programming\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe.config
+F:\Visual Studio stuffs\Functional-Programming\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe
+F:\Visual Studio stuffs\Functional-Programming\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.pdb
+F:\Visual Studio stuffs\Functional-Programming\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Functional-Programming\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.exe
+F:\Visual Studio stuffs\Functional-Programming\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.pdb
