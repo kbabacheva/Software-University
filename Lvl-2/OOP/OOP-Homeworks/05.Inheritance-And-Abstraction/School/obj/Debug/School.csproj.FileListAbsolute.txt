@@ -1,0 +1,6 @@
+F:\Visual Studio stuffs\Inheritance-And-Abstraction\School\bin\Debug\School.exe.config
+F:\Visual Studio stuffs\Inheritance-And-Abstraction\School\bin\Debug\School.exe
+F:\Visual Studio stuffs\Inheritance-And-Abstraction\School\bin\Debug\School.pdb
+F:\Visual Studio stuffs\Inheritance-And-Abstraction\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Inheritance-And-Abstraction\School\obj\Debug\School.exe
+F:\Visual Studio stuffs\Inheritance-And-Abstraction\School\obj\Debug\School.pdb
