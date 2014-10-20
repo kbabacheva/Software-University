@@ -1,0 +1,6 @@
+F:\Visual Studio stuffs\Encapsulation-And-Polymorphism\Shapes\bin\Debug\Shapes.exe.config
+F:\Visual Studio stuffs\Encapsulation-And-Polymorphism\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Encapsulation-And-Polymorphism\Shapes\bin\Debug\Shapes.exe
+F:\Visual Studio stuffs\Encapsulation-And-Polymorphism\Shapes\bin\Debug\Shapes.pdb
+F:\Visual Studio stuffs\Encapsulation-And-Polymorphism\Shapes\obj\Debug\Shapes.exe
+F:\Visual Studio stuffs\Encapsulation-And-Polymorphism\Shapes\obj\Debug\Shapes.pdb
