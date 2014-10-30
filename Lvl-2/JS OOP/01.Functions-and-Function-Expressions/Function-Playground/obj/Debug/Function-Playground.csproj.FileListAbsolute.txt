@@ -1,0 +1,6 @@
+F:\Visual Studio stuffs\Functions-and-Function-Expressions\Function-Playground\bin\Function-Playground.dll.config
+F:\Visual Studio stuffs\Functions-and-Function-Expressions\Function-Playground\bin\Function-Playground.dll
+F:\Visual Studio stuffs\Functions-and-Function-Expressions\Function-Playground\bin\Function-Playground.pdb
+F:\Visual Studio stuffs\Functions-and-Function-Expressions\Function-Playground\obj\Debug\Function-Playground.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Functions-and-Function-Expressions\Function-Playground\obj\Debug\Function-Playground.dll
+F:\Visual Studio stuffs\Functions-and-Function-Expressions\Function-Playground\obj\Debug\Function-Playground.pdb
