@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuStart2.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MenuStart2.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\playersScoreMunu2.cs" Line="9" Column="20" />
+      <File FileName="Assets\Scripts\GameOverScript.cs" Line="21" Column="12" />
+      <File FileName="Assets\Scripts\SavedPlayers.cs" Line="19" Column="37" />
+      <File FileName="Assets\Scripts\HUD.cs" Line="14" Column="39" />
+      <File FileName="Assets\Scripts\SoundEffects.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

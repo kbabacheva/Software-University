@@ -1,0 +1,11 @@
+
+
+
+Added Script CameraMoving
+
+    - the camera moves constantly x acse
+
+Added Character Jumping State
+
+    - Jumping state entered when Jumping is triggered and ends when Landing is triggered
+

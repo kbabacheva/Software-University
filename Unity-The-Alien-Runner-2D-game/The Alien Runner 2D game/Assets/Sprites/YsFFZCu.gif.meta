@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 5f2c3aae714cd564aa4398be8ee782d1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: YsFFZCu_0
+    21300002: YsFFZCu_1
+    21300004: YsFFZCu_2
+    21300006: YsFFZCu_3
+    21300008: YsFFZCu_4
+    21300010: YsFFZCu_5
+    21300012: YsFFZCu_6
+    21300014: YsFFZCu_7
+    21300016: YsFFZCu_8
+    21300018: YsFFZCu_9
+    21300020: YsFFZCu_10
+    21300022: YsFFZCu_11
+    21300024: YsFFZCu_12
+    21300026: YsFFZCu_13
+    21300028: YsFFZCu_14
+    21300030: YsFFZCu_15
+    21300032: YsFFZCu_16
+    21300034: YsFFZCu_17
+    21300036: YsFFZCu_18
+    21300038: YsFFZCu_19
+    21300040: YsFFZCu_20
+    21300042: YsFFZCu_21
+    21300044: YsFFZCu_22
+    21300046: YsFFZCu_23
+    21300048: YsFFZCu_24
+    21300050: YsFFZCu_25
+    21300052: YsFFZCu_26
+    21300054: YsFFZCu_27
+    21300056: YsFFZCu_28
+    21300058: YsFFZCu_29
+    21300060: YsFFZCu_30
+    21300062: YsFFZCu_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: YsFFZCu_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 70
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 71
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 70
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 71
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 70
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 70
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 70
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 70
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 70
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 62
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 23
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 48
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_14
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 48
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 48
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 23
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 22
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 23
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 22
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 22
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 22
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 22
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 14
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_26
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_27
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_28
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_29
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YsFFZCu_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

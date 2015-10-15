@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: 739a6525124191e42bebeeb2b767b54b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: reddragon_0
+    21300002: reddragon_1
+    21300004: reddragon_2
+    21300006: reddragon_3
+    21300008: reddragon_4
+    21300010: reddragon_5
+    21300012: reddragon_6
+    21300014: reddragon_7
+    21300016: reddragon_8
+    21300018: reddragon_9
+    21300020: reddragon_10
+    21300022: reddragon_11
+    21300024: reddragon_12
+    21300026: reddragon_13
+    21300028: reddragon_14
+    21300030: reddragon_15
+    21300032: reddragon_16
+    21300034: reddragon_17
+    21300036: reddragon_18
+    21300038: reddragon_19
+    21300040: reddragon_20
+    21300042: reddragon_21
+    21300044: reddragon_22
+    21300046: reddragon_23
+    21300048: reddragon_24
+    21300050: reddragon_25
+    21300052: reddragon_26
+    21300054: reddragon_27
+    21300056: reddragon_28
+    21300058: reddragon_29
+    21300060: reddragon_30
+    21300062: reddragon_31
+    21300064: reddragon_32
+    21300066: reddragon_33
+    21300068: reddragon_34
+    21300070: reddragon_35
+    21300072: reddragon_36
+    21300074: reddragon_37
+    21300076: reddragon_38
+    21300078: reddragon_39
+    21300080: reddragon_40
+    21300082: reddragon_41
+    21300084: reddragon_42
+    21300086: reddragon_43
+    21300088: reddragon_44
+    21300090: reddragon_45
+    21300092: reddragon_46
+    21300094: reddragon_47
+    21300096: reddragon_48
+    21300098: reddragon_49
+    21300100: reddragon_50
+    21300102: reddragon_51
+    21300104: reddragon_52
+    21300106: reddragon_53
+    21300108: reddragon_54
+    21300110: reddragon_55
+    21300112: reddragon_56
+    21300114: reddragon_57
+    21300116: reddragon_58
+    21300118: reddragon_59
+    21300120: reddragon_60
+    21300122: reddragon_61
+    21300124: reddragon_62
+    21300126: reddragon_63
+    21300128: reddragon_64
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: reddragon_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 756
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 756
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 756
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 756
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 756
+        width: 79
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 756
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 756
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_7
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 756
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_8
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 756
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_9
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 831
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_10
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 832
+        width: 5
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_11
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 844
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_12
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 756
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_13
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 756
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 617
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 617
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 616
+        width: 171
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 617
+        width: 173
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_18
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 643
+        width: 191
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_19
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 617
+        width: 174
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_20
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 618
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_21
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 618
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 519
+        width: 115
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 518
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 519
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 518
+        width: 130
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_26
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 401
+        width: 216
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_27
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 482
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 401
+        width: 140
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 401
+        width: 164
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 401
+        width: 196
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_31
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 479
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_32
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 479
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 279
+        width: 169
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 279
+        width: 197
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_35
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 279
+        width: 181
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_36
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 339
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_37
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 279
+        width: 189
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_38
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 279
+        width: 242
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_39
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 279
+        width: 161
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_40
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 279
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 124
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 58
+        width: 138
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_44
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 131
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_45
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 69
+        width: 169
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_46
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 159
+        width: 140
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_47
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 159
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_48
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 159
+        width: 121
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_49
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 159
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 94
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 85
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 100
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_53
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 7
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_54
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 14
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_55
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 13
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 13
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_57
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 13
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_58
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 13
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_59
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 13
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_60
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 13
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_61
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 13
+        width: 106
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_62
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 13
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_63
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 20
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reddragon_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 9
+        width: 127
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
