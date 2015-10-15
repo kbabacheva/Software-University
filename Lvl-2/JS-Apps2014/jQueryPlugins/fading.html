@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Fading message box</title>
+    <script src ="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="fading-message.js"></script>
+</head>
+<body>
+        <button class="success-btn">Success</button>
+        <button class="error-btn">Error</button>
+        <div id="message-box"></div>
+        <script>
+            var messageBox = $('#message-box').messageBox();
+            messageBox.success('Success message.');
+            messageBox.error('Error message.');
+
+            $('button').click(function () {
+                var btnClass = $(this).attr('class');
+
+                if (btnClass == 'success-btn') {
+                    messageBox.success('Success message.');
+                } else if (btnClass == 'error-btn') {
+                    messageBox.error('Error message.');
+                }
+            });
+        </script>
+</body>
+</html>

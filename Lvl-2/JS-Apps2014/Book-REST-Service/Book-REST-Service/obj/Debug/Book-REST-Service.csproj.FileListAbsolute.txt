@@ -1,0 +1,6 @@
+F:\Visual Studio stuffs\Book-REST-Service\Book-REST-Service\bin\Book-REST-Service.dll.config
+F:\Visual Studio stuffs\Book-REST-Service\Book-REST-Service\bin\Book-REST-Service.dll
+F:\Visual Studio stuffs\Book-REST-Service\Book-REST-Service\bin\Book-REST-Service.pdb
+F:\Visual Studio stuffs\Book-REST-Service\Book-REST-Service\obj\Debug\Book-REST-Service.csprojResolveAssemblyReference.cache
+F:\Visual Studio stuffs\Book-REST-Service\Book-REST-Service\obj\Debug\Book-REST-Service.dll
+F:\Visual Studio stuffs\Book-REST-Service\Book-REST-Service\obj\Debug\Book-REST-Service.pdb

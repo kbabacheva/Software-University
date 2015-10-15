@@ -1,0 +1,5 @@
+C:\Users\ss\Desktop\CookiesAndWebStorages\PollSystem\bin\PollSystem.dll
+C:\Users\ss\Desktop\CookiesAndWebStorages\PollSystem\bin\PollSystem.pdb
+C:\Users\ss\Desktop\CookiesAndWebStorages\PollSystem\obj\Debug\PollSystem.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\CookiesAndWebStorages\PollSystem\obj\Debug\PollSystem.dll
+C:\Users\ss\Desktop\CookiesAndWebStorages\PollSystem\obj\Debug\PollSystem.pdb

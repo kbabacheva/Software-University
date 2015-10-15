@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Poll system</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+</head>
+<body>
+<h1>You have <span id="timer"></span> seconds</h1>
+<form action="index.html" method="post">
+    <ul id="questions">
+        <li id="q1">
+            <div>What does web storage do?</div>
+            <input type="radio" name="question#1" id="q1a1" value="q1a1"/>
+            <label for="q1a1">Same as cookies</label><br/>
+            <input type="radio" name="question#1" id="q1a2" value="q1a2"/>
+            <label for="q1a2">Store data in a user's Web browser</label><br/>
+            <input type="radio" name="question#1" id="q1a3" value="q1a3"/>
+            <label for="q1a3">Delete HDD</label><br/>
+            <input type="radio" name="question#1" id="q1a4" value="q1a4"/>
+            <label for="q1a4">Make HTTP request</label><br/>
+        </li>
+        <li id="q2">
+            <div>How localStorage is accessed?</div>
+            <input type="radio" name="question#2" id="q2a1" value="q2a1"/>
+            <label for="q1a1">document.cookies</label><br/>
+            <input type="radio" name="question#2" id="q2a2" value="q2a2"/>
+            <label for="q1a2">document.sessionStorage</label><br/>
+            <input type="radio" name="question#2" id="q2a3" value="q2a3"/>
+            <label for="q1a3">document.localStorage</label><br/>
+            <input type="radio" name="question#2" id="q2a4" value="q2a4"/>
+            <label for="q1a4">document.webStorage</label><br/>
+        </li>
+        <li id="q3">
+            <div>For how long does session storage keep data?</div>
+            <input type="radio" name="question#3" id="q3a1" value="q3a1"/>
+            <label for="q1a1">Keeps data for 1 hour</label><br/>
+            <input type="radio" name="question#3" id="q3a2" value="q3a2"/>
+            <label for="q1a2">Keeps data forever</label><br/>
+            <input type="radio" name="question#3" id="q3a3" value="q3a3"/>
+            <label for="q1a3">Keeps data only for the session</label><br/>
+            <input type="radio" name="question#3" id="q3a4" value="q3a4"/>
+            <label for="q1a4">Keeps data for 1 day</label><br/>
+        </li>
+    </ul>
+</form>
+<button id="submitButton">Submit</button>
+        <script src="timer.js"></script>
+    <script src="questions.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

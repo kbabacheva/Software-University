@@ -1,0 +1,5 @@
+C:\Users\ss\Desktop\CookiesAndWebStorages\GreetingSystem\bin\GreetingSystem.dll
+C:\Users\ss\Desktop\CookiesAndWebStorages\GreetingSystem\bin\GreetingSystem.pdb
+C:\Users\ss\Desktop\CookiesAndWebStorages\GreetingSystem\obj\Debug\GreetingSystem.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\CookiesAndWebStorages\GreetingSystem\obj\Debug\GreetingSystem.dll
+C:\Users\ss\Desktop\CookiesAndWebStorages\GreetingSystem\obj\Debug\GreetingSystem.pdb
